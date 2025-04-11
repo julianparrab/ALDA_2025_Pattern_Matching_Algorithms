@@ -1,0 +1,4 @@
+MAX_VALUE = 1000000000
+MAX_LENGTH_PATTERN = 50
+MIN_LENGTH_PATTERN = 10
+TIME_MULTIPLIER = 100000  # Time will be in one hundreds of a millisecond
